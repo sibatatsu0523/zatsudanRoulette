@@ -1,9 +1,6 @@
 import Title from './Title';
 import Selected from './Selected';
 
-
-
-
 function App() {
   
   return (

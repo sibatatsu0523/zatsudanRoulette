@@ -18,13 +18,13 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -e \"client\"",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://sibatatsu0523.github.io/zatsudanRoulette/",
+  "homepage": "https://sibatatsu0523.github.io/zatsudanRoulette/client",
   "eslintConfig": {
     "extends": [
       "react-app",
